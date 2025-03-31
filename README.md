@@ -17,4 +17,6 @@ https://www.kaggle.com/datasets/jangelojr/satisfacao-apps-bancos/
 
 ## 🙇 RESPONSÁVEL
 Euller Nogueira
+Gustavo Rosa Arizono
+Bruna Mendes Rocha
 
