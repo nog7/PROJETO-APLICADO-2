@@ -10,7 +10,7 @@
 - **README.md**
 
 ## 🚀 Objetivo
-Criar um modelo de aprendizado de máquina que consiga identificar e classificar automaticamente os comentários dos usuários sobre aplicativos bancários, fornecendo insights mais detalhados sobre a experiência do cliente.
+Criar um modelo de aprendizado de máquina que consiga identificar e prever a classificação dos comentários dos usuários sobre aplicativos bancários, utilizando a base atual como treinamento para prever a classificação de novos comentários.
 
 ## 🎲 Base de Dados
 https://www.kaggle.com/datasets/jangelojr/satisfacao-apps-bancos/
