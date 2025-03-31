@@ -7,6 +7,7 @@
 - **Documentação/**
   - **PROJETO APLICADO II.pdf**
 - **Scripts/**
+  - **Projeto Aplicado II.ipynb**
 - **README.md**
 
 ## 🚀 Objetivo
